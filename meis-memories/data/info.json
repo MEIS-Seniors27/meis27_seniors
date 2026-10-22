@@ -1,0 +1,43 @@
+{
+  "_how_to_edit": "Edit only the text between the quotes. Keep the commas and brackets. Anything you leave empty is simply hidden.",
+
+  "schoolName": "Middle East International School",
+  "shortName": "MEIS",
+  "classLabel": "Seniors",
+  "classYear": "2027",
+  "tagline": "The trips, the inside jokes, little us and big us. Our whole story, one scan away.",
+  "heroCaption": "The whole crew",
+
+  "graduationDate": "",
+  "_graduationDate_example": "2027-06-30  (shows a countdown, then 'days since we graduated')",
+
+  "whatsapp": "",
+  "_whatsapp_example": "201001234567  (country code + number, no + or spaces. Adds a 'send us a photo' button)",
+
+  "song": { "title": "", "file": "" },
+  "_song_example": "Put an mp3 in the audio folder, then: { \"title\": \"Our song\", \"file\": \"audio/our-song.mp3\" }",
+
+  "trips": [],
+  "_trips_example": [
+    {
+      "folder": "2026-03-12_Sharm-Trip",
+      "name": "Sharm Trip",
+      "date": "2026-03-12",
+      "place": "Sharm El Sheikh",
+      "story": "Two sentences about what happened."
+    }
+  ],
+
+  "memories": [],
+  "_memories_example": [
+    { "text": "The funniest thing anyone said in class.", "by": "Who said it", "tag": "Inside joke" }
+  ],
+
+  "memoryCaptions": {},
+  "_memoryCaptions_example": { "bus-selfie.jpg": "Last bus home" },
+
+  "members": {},
+  "_members_example": {
+    "ahmed-ali": { "title": "Always early", "quote": "One line that sounds like him." }
+  }
+}
